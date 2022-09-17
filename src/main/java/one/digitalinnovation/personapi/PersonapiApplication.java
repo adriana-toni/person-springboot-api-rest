@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"one.digitalinnovation.persoapi.repository"})
+@ComponentScan(basePackages = {"one.digitalinnovation.personapi.repository"})
 public class PersonapiApplication {
 
 	public static void main(String[] args) {
